@@ -1,0 +1,58 @@
+
+
+.cuadrado-fondo{
+	width:200px ;
+	height:200px ;
+	background:#FF0000;
+	margin-left:70px;
+	margin-bottom: 2em; 
+}
+.cuadrado-centro{
+	width: 110px;
+	height: 110px;
+	background-color: #8B008B;
+	position: absolute;
+	left:125px;
+	top:55px;
+}
+.cuadrado-esquina{
+	width: 52px;
+	height:52px;
+	background:#FFD700;
+	position:absolute;
+	top:55px;
+	left: 125px;
+}
+.cuadrado-fondo2{
+	
+	width:200px;
+	height:200px;
+	background:#0000FF;
+	margin-left:70px;
+	 
+}
+.cuadrado-centro2{
+	width: 110px;
+	height: 110px;
+	background-color: #006400;
+	position: absolute;
+	left: 128px;
+	bottom: 190px;
+}
+.cuadrado-esquina2{
+	width: 52px;
+	height:52px;
+	background:#000000;
+	position:absolute;
+	top:240px;
+	
+}
+
+
+
+
+
+
+
+
+
